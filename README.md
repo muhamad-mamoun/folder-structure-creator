@@ -15,7 +15,7 @@ This tool automates the creation of a standardized folder structure, files struc
 Welcome, Mamoun.
 
 Layer name [MCAL - HAL]: MCAL
-Module name: SysTick
-Module Path: D:\Projects\V2V-Nexus
+Module name: NVIC
+Module Path: D:\Projects\V2V-Nexus\V2V-coreECU\MCAL
 
 Module created successfully.
