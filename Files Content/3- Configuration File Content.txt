@@ -1,0 +1,21 @@
+/*
+=======================================================================================================================
+Author       : {User_Name}
+Module       : {Module_Name}
+File Name    : {module_name}_cfg.h
+Date Created : {Date}
+Description  : Configuration file for the {Module_Name} driver.
+=======================================================================================================================
+*/
+
+
+#ifndef {LAYER_NAME}_{MODULE_NAME}_INCLUDES_{MODULE_NAME}_CFG_H_
+#define {LAYER_NAME}_{MODULE_NAME}_INCLUDES_{MODULE_NAME}_CFG_H_
+
+/*=====================================================================================================================
+                                < Definitions and Static Configurations >
+=====================================================================================================================*/
+
+
+
+#endif /* {LAYER_NAME}_{MODULE_NAME}_INCLUDES_{MODULE_NAME}_CFG_H_ */
